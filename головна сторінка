@@ -1,0 +1,46 @@
+ <html>
+    <head>
+        <title>нова почта</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <header>
+            <img src="data:image/png;base64,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">
+            <nav>
+                <a href="second.html">Поскаржитися</a>
+                <a href="">Пункт видачі</a>
+            </nav>
+        </header>
+        <main>
+        <section>
+        <h1>Про нас</h1>
+        <div class="sigma">
+        <p>Шановний клієнт, вітаємо на сайті нової пошти.
+            На нашому сайті якщо використуєтесь нашим сервісом, ви можете поскаржитися на роботу наших працівників, також ви можете подивитися де знаходиться пункт видачі, або контакти наших консультантів, якщо у вас виникли якісь питання.
+        </p></div>
+          <div class="tailer">
+        <h1> Цікаві факти про Нову Пошту</h1>
+        <p>1. Історія компанії Нова пошта почалася в лютому 2001 року, коли університетські друзі В’ячеслав Климов і Володимир Поперешнюк вирішили заснувати спільну справу. Обом на той момент було по 25 років.</p></div>
+              <div class="derden">
+                <h1>2 факт</h1>
+            <p>2. Стартовий капітал компанії становив $7000, а команда на початку включала в себе сім осіб. Співазасновниками бізнесу стали В’ячеслав Климов, Володимир Поперешнюк та Інна Поперешнюк.</p></div>
+              <div class="criper">
+                <h1>3 факт</h1>
+            <p>3. На четвертому році існування у компанії з’явилися перші великі клієнти та конкуренти. В цей час в Нова пошта почалося формування ключової команди управлінців, а також адміністративної структури з поділом на регіональні філії та центральні офіси в Києві та Полтаві.</p></div>
+              <div class="swinka">
+                <h1>4 факт</h1>
+            <p>4. В 2009 році Нова пошта стає лідером ринку експрес-доставки в Україні. Компанія щорічно збільшує обсяги перевезених вантажів втричі. У 2009 році вона доставила більше 1,6 млн посилок, в 2010 – понад 4 млн. Схожими темпами розвивається й мережа відділень. Якщо в 2009-му вона складається з 80-ти відділень, то в 2010 році їх стає вже 140.</p></div>
+            <div class="bot">
+              <h1>5 факт</h1>
+            <p>5. Окрім цього, компанія запускає сервіси електронних грошових переказів через каси ForPost і послугу фулфілмента, впроваджує сучасні IT-рішення. Одним з них став запуск мобільного додатку, який станом на кінець 2015 року завантажили понад 1,5 млн українців.</p>
+            </div>
+        </section>
+        <h1> ось всі відділи нової почти по Україні</h1>
+        <img src="https://images.unian.net/photos/2022_03/1646406555-9263.png?0.9009593300209036">
+        </main>
+        <footer>
+          <p>adres:Шевченка 23</p>
+            <p>tel:0687855355</p>
+        </footer>
+    </body>
+</html>
